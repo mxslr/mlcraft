@@ -1,12 +1,6 @@
 <div align="center">
 
-<pre>
-███    ███ ██       ██████ ██████   █████  ███████ ████████ 
-████  ████ ██      ██      ██   ██ ██   ██ ██         ██    
-██ ████ ██ ██      ██      ██████  ███████ █████      ██    
-██  ██  ██ ██      ██      ██   ██ ██   ██ ██         ██    
-██      ██ ███████  ██████ ██   ██ ██   ██ ██         ██    
-</pre>
+<img src="assets/banner.svg" alt="mlcraft" width="588">
 
 <h3>Research-first AI/ML engineering for your AI coding assistant</h3>
 
